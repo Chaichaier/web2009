@@ -11,6 +11,7 @@ import './utils/init'
 import './utils/eventbus'
 import VueAwesomeSwiper from 'vue-awesome-swiper'
 import 'swiper/css/swiper.css'
+//text
 //UEditor
 import VueUeditorWrap from 'vue-ueditor-wrap'
 Vue.component('vue-ueditor-wrap', VueUeditorWrap)
